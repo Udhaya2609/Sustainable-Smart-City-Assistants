@@ -1,1 +1,3 @@
-# Sustainable-Smart-City-Assistants
+#SmartSDLC – AI-Enhanced
+Software Development
+Lifecycle
